@@ -10,10 +10,7 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
-@font-face {
-	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc);
-}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
